@@ -15,8 +15,8 @@
 
 <br>
 
-- Apasionado por el front-end
-- 15 años de edad.
+- FullStack Developer
+- 15 Years
 
 <br><br>
 
@@ -36,6 +36,11 @@
    
 
 <br>   
+
+- **Languages**:
+  ![CodeDiego15's Stats](https://github-readme-stats.vercel.app/api?username=CodeDiego15&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![CodeDiego15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDiego15&theme=tokyonight&hide_border=true)
+  ![CodeDiego15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDiego15&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
     
 - **Front-End Development**:
 
