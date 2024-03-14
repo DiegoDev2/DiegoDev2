@@ -37,9 +37,7 @@
 
 <br>   
 
-- **Languages**:
-  
-	<br>
+- **Statics**:
   ![CodeDiego15's Stats](https://github-readme-stats.vercel.app/api?username=CodeDiego15&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
   	<br>
   ![CodeDiego15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDiego15&theme=tokyonight&hide_border=true)
