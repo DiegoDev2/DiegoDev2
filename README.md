@@ -66,4 +66,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeDiego15&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
 ###
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uhr557nh6jylhyty3ihmy5lipu&unique={true|1|on|yes})
+
