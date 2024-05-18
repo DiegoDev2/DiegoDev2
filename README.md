@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  
 </div>
 
 ###
