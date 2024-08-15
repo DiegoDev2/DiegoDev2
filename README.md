@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! My name is DiegoDev</h2>
+<p>🌱 Sobre mí:
+Tengo 15 años y me fascina el mundo del hacking ético y el pentesting, donde puedo explorar y aprender sobre seguridad informática.
+</p>
 
 ###
 
@@ -45,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CodeDiego15/CodeDiego15/output/snake.svg" alt="Snake animation" />
+
 
 ###
