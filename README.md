@@ -4,12 +4,8 @@ Tengo 15 años y me fascina el mundo del hacking ético y el pentesting, donde p
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeDiego15&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeDiego15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+![CodeDiego15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDiego15&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![CodeDiego15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDiego15&theme=dark&hide_border=true)
 ###
 
 <img align="right" height="150" src="https://storage.ko-fi.com/cdn/useruploads/display/9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff.gif"  />
