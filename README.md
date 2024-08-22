@@ -25,7 +25,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+DiegoDev;Currently+I+am+very+interested+in+the+topic+of+hacking+and+cybersecurity.)](https://git.io/typing-svg)
 
 
-<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="img" align="right" width="440px">
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="img" align="right" width="440px">
 
 
 - 🌱 I'm currently learning ${\color{red}Bash \space \color{orange}Nmap\space \color{lightblue}Go}$
