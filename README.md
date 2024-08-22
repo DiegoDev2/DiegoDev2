@@ -1,5 +1,6 @@
 
 
+
 <!--
 <p align="center">
 <img  src="https://github.com/krovuxdev/krovuxdev/assets/62192487/8e49f5d2-27cf-4534-b340-8edecdabe950" width="500" alt="png" />
@@ -24,7 +25,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+DiegoDev;Currently+I+am+very+interested+in+the+topic+of+hacking+and+cybersecurity.)](https://git.io/typing-svg)
 
 
-<img src="https://github.com/krovuxdev/krovuxdev/assets/62192487/fa3dc7c1-975d-4c2c-85cf-898dbc601cd9" alt="img" align="right" width="440px">
+<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="img" align="right" width="440px">
 
 
 - 🌱 I'm currently learning ${\color{red}Bash \space \color{orange}Nmap\space \color{lightblue}Go}$
