@@ -71,8 +71,8 @@
 
 
 <br><br>
-<h3 align=center>Skills</h3>
-<div align =center>
+<h3 >Skills</h3>
+<div >
 <img width="50" src="https://img.icons8.com/?size=100&id=vCiwbOh7Uo7G&format=png&color=000000" />
 <img width="50" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000">
 </div>
