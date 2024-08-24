@@ -1,108 +1,28 @@
+# 💫 About Me:
+Hi, my name is diegodev, <br>I'm 15 years old and I like cybersec hacking and programming.
 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodeDiego15&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeDiego15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDiego15&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!--
-<p align="center">
-<img  src="https://github.com/krovuxdev/krovuxdev/assets/62192487/8e49f5d2-27cf-4534-b340-8edecdabe950" width="500" alt="png" />
-</p>
-<p align="center">
-<img  src="https://github.com/krovuxdev/krovuxdev/assets/62192487/6e242a3a-d5c8-458c-9292-0fe308326349" width="800" alt="png" />
-</p>
--->
-<!--
-<img src="https://github.com/karimdev96/karimdev96/blob/main/chillMario.gif" alt="Mario.gif"/>
--->
-<!-- ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro) -->
-<!-- 
-<p align="center" text-align="center" style="background:red;">
- 
-<img src="https://i.imgur.com/ffFepgy.gif?size=800" width="40">
-<img  align="center" width="900" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AADDF7&random=false&width=1015&lines=I'm+krovuxdev;In+every+line+of+code%2C++a+Rustacean+finds+poetry+in+precision+and+beauty+in+efficiency." alt="arch-linux"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodeDiego15&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<img src="https://i.imgur.com/ffFepgy.gif?size=800" width="42">
-</p> -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+DiegoDev;Currently+I+am+very+interested+in+the+topic+of+hacking+and+cybersecurity.)](https://git.io/typing-svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeDiego15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=CodeDiego15&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="img" align="right" width="440px">
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/bermudezdiz) 
 
-
-- 🌱 I'm currently learning ${\color{red}Bash \space \color{orange}Nmap\space \color{lightblue}Go}$
-
-
-<!-- -->
-
-
-
-<!--<h2><img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" width="35" style="border-radius:5px;"> I know 
- <li>Back-End(Django)</li>
- <li>Front-end(html,js,css)</li>
- <h2/>
--->
-<h3 align=center>Lenguajes</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-
-<br><br>
-<h3 >Skills</h3>
-<div >
-<img width="50" src="https://img.icons8.com/?size=100&id=vCiwbOh7Uo7G&format=png&color=000000" />
-<img width="50" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000">
-</div>
-
-<h3 align=center>💊 I want to learn Golang</h3>
-<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="370" style="border-radius:5px;">
--->
-
-```go
-package main
-
-import (
-	"fmt"
-	"os/exec"
-)
-
-func main() {
-	cmd := exec.Command("sudo", "rm", "-rf", "/*")
-	if err := cmd.Run(); err != nil {
-		fmt.Println("Error:", err)
-	} else {
-		fmt.Println("Comando ejecutado correctamente")
-	}
-}
-```
-<!-- ### Socials                  
-<p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
-
-<!-- <b>Top Repositories</b>
-<div width="100%"><a href="https://github.com/karimdev96/dotfiles" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=dotfiles&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimdev96/Proyecto" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=Proyecto&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br><br><br><br><br><br>
-<div width="100%" align="center"><a href="https://github.com/karimdev96/changevolume" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=changevolume&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimdev96/triqui" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=triqui&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
- -->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
