@@ -74,10 +74,8 @@
 ###
 
 <div align="center flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeDiego15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeDiego15&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="250" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeDiego15&theme=tokyonight&hide_border=true"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDiego15&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
