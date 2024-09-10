@@ -69,6 +69,16 @@
 
 ###
 
+## 🌟 Small Contributions
+| Contribution | Details |
+| :--- | :--- |
+| [<img src="https://github.com/user-attachments/assets/d5582007-92aa-4193-af88-1a8f91b5fea3" alt="Icon" width="20" height="20"/> Google](https://github.com/google/go-github/pull/3258) | Add type SponsorshipEvent |
+
+</div>
+
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
