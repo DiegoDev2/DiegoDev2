@@ -19,6 +19,7 @@ type User struct {
     Languages      []string
     Knowledge      []string
     Challenge      string
+    OS             []string
 }
 
 func main() {
@@ -28,10 +29,12 @@ func main() {
         NativeLanguage: "ES",
         Languages:      []string{"Español", "Ruso", "Inglés"},
         Knowledge: []string{
-            "Python", "Ethical Hacking", "NextJS", "React", "HTML", "CSS", "JavaScript",
+            "Python", "NextJS", "React", "HTML", "CSS", "JavaScript",
             "Tailwind CSS", "Node JS", "Astro", "TypeScript", "Photoshop", "Docker", "Kubernetes",
-            "Bash", "Go", "MacOS", "Kali Linux", "Black Arch", "ParrotSec OS", "C++", "C(Learning)",
-            "Assembly(Learning)", "Git", "GitHub", "Figma",
+            "Bash", "Go", "C++", "C(Learning)", "Assembly(Learning)", "Git", "GitHub", "Figma",
+        },
+        OS: []string{
+            "MacOS", "Kali Linux", "Black Arch", "ParrotSec OS",
         },
         Challenge: "I am focused on improving my skills in ethical hacking and expanding my programming knowledge.",
     }
