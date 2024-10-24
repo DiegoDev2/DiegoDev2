@@ -23,6 +23,7 @@ type User struct {
 }
 
 func main() {
+
     diegodev := User{
         Name:           "diegodev2",
         Age:            15,
@@ -33,9 +34,11 @@ func main() {
             "Tailwind CSS", "Node JS", "Astro", "TypeScript", "Photoshop", "Docker", "Kubernetes",
             "Bash", "Go", "C++", "C(Learning)", "Assembly(Learning)", "Git", "GitHub", "Figma",
         },
+
         OS: []string{
             "MacOS", "Kali Linux", "Black Arch", "ParrotSec OS",
         },
+
         Challenge: "I am focused on improving my skills in ethical hacking and expanding my programming knowledge.",
     }
 
