@@ -47,5 +47,9 @@ func main() {
 ![DiegoDev2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDev2&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![DiegoDev2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoDev2&theme=vue-dark&hide_border=true)
 ![](https://github-profile-trophy.vercel.app/?username=DiegoDev2&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
+## 🌟 Small Contributions
 
+| Contribution | Details |
+| :--- | :--- |
+| [<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png" alt="Icon" width="16" height="16"/> Google](https://github.com/google/go-github/pull/3258) | Add type SponsorshipEvent |
 
