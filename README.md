@@ -31,18 +31,16 @@ func main() {
         Languages:      []string{"Español", "Ruso", "Inglés"},
         Knowledge: []string{
             "Python", "NextJS", "React", "HTML", "CSS", "JavaScript",
-            "Tailwind CSS", "Node JS", "Astro", "TypeScript", "Photoshop", "Docker", "Kubernetes",
-            "Bash", "Go", "C++", "C(Learning)", "Assembly(Learning)", "Git", "GitHub", "Figma",
+            "Tailwind CSS", "Node JS", "Astro", "TypeScript", "Docker", "Kubernetes",
+            "Bash", "Go", "Git", "GitHub", "Figma",
         },
 
         OS: []string{
-            "MacOS", "Kali Linux", "Black Arch", "ParrotSec OS",
+            "MacOS"
         },
 
         Challenge: "I am focused on improving my skills in ethical hacking and expanding my programming knowledge.",
     }
-
-    fmt.Printf("User Info: %+v\n", diegodev)
 }
 ```
 
