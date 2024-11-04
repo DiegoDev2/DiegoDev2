@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">🚀 <strong>Go</strong> enthusiastic & <strong>V</strong> enjoyer.<br>⚡ Contributing, Doing and Enjoying the process.<br>☕️ OpenSource Contributor In <strong>Google</strong>. <br>🍣 <strong>15</strong> Years Old.</p>
+<p align="left">🚀 <strong>Go</strong> enthusiastic & <strong>V</strong> enjoyer.<br> 🔍 Learning Rust & V
+ <br>⚡ Contributing, Doing and Enjoying the process.<br>☕️ OpenSource Contributor In <strong>Google</strong>. <br>🍣 <strong>15</strong> Years Old.</p>
 
 ###
 
