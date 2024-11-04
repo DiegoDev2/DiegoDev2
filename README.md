@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🚀 Go enthusiastic & V enjoyer.<br>⚡ Contributing, Doing and Enjoying the process.<br>☕️ OpenSource Contributor In Google.<br>🍣 15 Years Old.</p>
+<p align="left">🚀 <strong>Go</strong> enthusiastic & <strong>V</strong> enjoyer.<br>⚡ Contributing, Doing and Enjoying the process.<br>☕️ OpenSource Contributor In <strong>Google</strong>. <br>🍣 <strong>15</strong> Years Old.</p>
 
 ###
 
