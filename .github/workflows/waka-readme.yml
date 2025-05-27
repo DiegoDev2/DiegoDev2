@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Ejecuta todos los días a las 00:00 IST (~18:30 UTC)
+    # Corre todos los días a las 00:00 IST (18:30 UTC)
     - cron: '30 18 * * *'
   workflow_dispatch:
 
