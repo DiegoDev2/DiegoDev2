@@ -1,30 +1,39 @@
+# Dieguito.k8s
 
-# 💫 About Me:
-🔭 I’m currently working on DevOps pipelines and web/CLI development.  
-👯 I’m looking to collaborate on open-source projects.  
-🌱 I’m currently learning advanced Golang and systems programming.  
-💬 Ask me about DevOps, web dev, CLI tools, or Golang.  
-⚡ Fun fact: I love exploring low-level languages for high-performance code.  
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0xdxb)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dxb_0x)  
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=go,rust,c,zig,typescript,javascript,html,css,react,nextjs,astro,tailwind,vercel,docker,kubernetes,terraform,grafana,neovim,linux,apple,arch,bash,githubactions,git,github,figma&)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DiegoDev2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoDev2&theme=onedark&hide_border=true)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDev2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DiegoDev2&limit=5&theme=onedark&combine_all_yearly_contributions=true&hide_border=true)  
+Build. Ship. Iterate.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DiegoDev2&icon=0&color=0)](https://visitcount.itsvg.in)  
 
+### Now
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DiegoDev2&theme=onedark&hide_border=true)
+- DevOps pipelines  
+- Web & CLI tools  
+- Writing Go  
+- Thinking in systems
+- Exploring DX Engineering
+
+---
+
+### Focus
+
+- Developer tools  
+- Infrastructure  
+- Speed  
+- Simplicity
+
+---
+
+### Stack
+
+`Golang` · `Rust` · `C` · `Zig`  
+`TypeScript` · `React` · `Next.js` · `Astro`  
+`Tailwind` · `Vercel` · `Docker` · `Kubernetes`  
+`Terraform` · `Grafana` · `Neovim` · `MacOS`
+
+---
+
+### Elsewhere
+
+[↗ x.com/0xDrayk](https://x.com/0xDrayk)  
+---
 
