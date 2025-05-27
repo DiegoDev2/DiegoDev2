@@ -32,6 +32,10 @@ Build. Ship. Iterate.
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### Elsewhere
 
 [↗ x.com/0xDrayk](https://x.com/0xDrayk)  
