@@ -28,7 +28,7 @@ Build. Ship. Iterate.
 `Golang` · `Rust` · `C` · `Zig`  
 `TypeScript` · `React` · `Next.js` · `Astro`  
 `Tailwind` · `Vercel` · `Docker` · `Kubernetes`  
-`Terraform` · `Grafana` · `Neovim` · `MacOS`
+`Terraform` · `Grafana` · `Github Actions`  · `Neovim` · `MacOS`
 
 ---
 
